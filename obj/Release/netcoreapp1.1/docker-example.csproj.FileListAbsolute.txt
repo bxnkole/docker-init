@@ -1,0 +1,8 @@
+C:\JCodes\docker-example\docker-example\bin\Release\netcoreapp1.1\docker-example.deps.json
+C:\JCodes\docker-example\docker-example\bin\Release\netcoreapp1.1\docker-example.runtimeconfig.json
+C:\JCodes\docker-example\docker-example\bin\Release\netcoreapp1.1\docker-example.runtimeconfig.dev.json
+C:\JCodes\docker-example\docker-example\bin\Release\netcoreapp1.1\docker-example.dll
+C:\JCodes\docker-example\docker-example\bin\Release\netcoreapp1.1\docker-example.pdb
+C:\JCodes\docker-example\docker-example\obj\Release\netcoreapp1.1\docker-example.AssemblyInfo.cs
+C:\JCodes\docker-example\docker-example\obj\Release\netcoreapp1.1\docker-example.dll
+C:\JCodes\docker-example\docker-example\obj\Release\netcoreapp1.1\docker-example.pdb
